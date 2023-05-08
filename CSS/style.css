@@ -6,27 +6,27 @@
 
 .back_ground{
     background-color: #2C3E50;
-    border: 1px solid rgb(255, 0, 0);
+    border: 1px solid rgb(255, 134, 21);
 }
 
 .back_ground_green{
     background-color: #1ABC9C;
-    border: 1px solid rgb(238, 208, 38);
+    border: 1px solid rgb(255, 134, 21);
 }
 
 .back_ground_white{
-    border: 1px solid rgb(238, 208, 38);
+    border: 1px solid rgb(255, 134, 21);
 }
 
 .back_ground_grey{
-    border: 1px solid rgb(161, 45, 45);
+    border: 1px solid rgb(255, 134, 21);
     background-color: #3A546D;
 }
 
 
 .back_ground_footer{
     background-color: #2C3E50;
-    border: 1px solid rgb(255, 0, 0);
+    border: 1px solid rgb(255, 134, 21);
     height: 100px;
 }
 
