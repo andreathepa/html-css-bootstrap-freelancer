@@ -1,0 +1,16 @@
+.back_ground{
+    background-color: #2C3E50;
+    border: 1px solid rgb(255, 0, 0);
+    height: 150px;
+}
+
+.back_ground_green{
+    background-color: #1ABC9C;
+    border: 1px solid rgb(238, 208, 38);
+    height: 350px;
+}
+
+.back_ground_white{
+    border: 1px solid rgb(238, 208, 38);
+    height: 600px;
+}
