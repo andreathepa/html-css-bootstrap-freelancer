@@ -37,7 +37,7 @@
 
 .margin{
     margin-top: 20px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .circle{
@@ -46,6 +46,10 @@
 
 .radius{
     border-radius: 25px;
+}
+
+.height-150{
+    height: 150px;
 }
 
 /* COLORS CARD */
@@ -65,3 +69,4 @@
 .green{
     background-color: rgb(37, 122, 37);
 }
+
