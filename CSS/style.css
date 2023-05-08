@@ -1,16 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .back_ground{
     background-color: #2C3E50;
     border: 1px solid rgb(255, 0, 0);
-    height: 150px;
 }
 
 .back_ground_green{
     background-color: #1ABC9C;
     border: 1px solid rgb(238, 208, 38);
-    height: 350px;
 }
 
 .back_ground_white{
     border: 1px solid rgb(238, 208, 38);
-    height: 600px;
+}
+
+.back_ground_grey{
+    border: 1px solid rgb(243, 0, 0);
+    background-color: #3A546D;
+}
+
+
+.back_ground_footer{
+    background-color: #2C3E50;
+    border: 1px solid rgb(255, 0, 0);
+    height: 100px;
+}
+
+
+.border{
+    padding: 20px;
+}
+
+.margin{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+/* COLORS CARD */
+
+.card{
+    height: 400px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
 }
