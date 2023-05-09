@@ -32,7 +32,7 @@
 
 
 .border{
-    padding: 20px;
+    border: none;
 }
 
 .margin{
@@ -52,18 +52,17 @@
     height: 150px;
 }
 
-.hamburger{
-    display: block;
-}
 
-.menu_extended{
-    display: none;
-}
 
 /* COLORS CARD */
 
 .card{
     height: 400px;
+}
+
+.imag{
+    width: 100%;
+    border-radius: 20px;
 }
 
 .yellow{
@@ -78,3 +77,26 @@
     background-color: rgb(37, 122, 37);
 }
 
+#avatar{
+    width: 30vh;
+}
+
+hr{
+    width: 100%;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.schr{
+    width: 100%;
+    border: 3px solid #2C3E50;
+    border-radius: 10px;
+}
+
+.color_text{
+    color: #2C3E50;
+}
+
+.text-purple{
+    color: rgb(74, 5, 163);
+}
