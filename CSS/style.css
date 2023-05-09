@@ -52,6 +52,14 @@
     height: 150px;
 }
 
+.hamburger{
+    display: block;
+}
+
+.menu_extended{
+    display: none;
+}
+
 /* COLORS CARD */
 
 .card{
