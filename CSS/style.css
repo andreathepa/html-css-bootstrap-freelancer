@@ -93,3 +93,13 @@ hr{
 .text-purple{
     color: rgb(74, 5, 163);
 }
+
+.custom_border_input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.height-150{
+    height: 50px;
+}
